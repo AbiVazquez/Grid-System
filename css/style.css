@@ -1,0 +1,24 @@
+/* Encabezado */
+.negro {
+	background-color: black;
+}
+.img{
+	width: 80px;
+
+}
+li {
+	display: inline;
+	color: white;
+	list-style: none;
+	font-family: Arial;
+	padding: 0 10px;
+}
+/*imagenes*/
+.gris {
+	background-color: #D8D8D8;
+
+}
+.tama {
+	width: 300px;
+	padding: 0 10px;
+}
