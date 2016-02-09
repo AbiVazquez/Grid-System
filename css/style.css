@@ -1,9 +1,11 @@
 /* Encabezado */
 .negro {
 	background-color: black;
+	opacity: 0.8;
 }
 .img{
-	width: 80px;
+	width: 85px;
+	margin-bottom: 10px;
 
 }
 li {
@@ -11,14 +13,41 @@ li {
 	color: white;
 	list-style: none;
 	font-family: Arial;
-	padding: 0 10px;
+	padding: 5px;
+
 }
-/*imagenes*/
+.li {
+	margin-top: 30px;
+}
+/*titulo h1 y 4 imagenes*/
+h1{
+	font-family: Arial;
+	margin-top: 15px;
+}
 .gris {
 	background-color: #D8D8D8;
 
 }
 .tama {
-	width: 300px;
-	padding: 0 10px;
+	max-width: 200px;
+	padding: 5px;	
+}
+.borde{
+	border: 1px solid #BDBDBD;
+	background-color: white;
+}
+.azul{
+	font-family: Arial;
+	color:#5858FA;
+	font-weight: bold;
+	margin-bottom: 30px;	
+}
+.more{
+	margin-top: 20px;
+}
+/*imagenes y texto Me quede en acomodar las imagenes*/
+.peque{
+	width: 150px;
+	padding: 5px;
+	margin-top: 50px;
 }
